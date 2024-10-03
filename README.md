@@ -1,3 +1,6 @@
+# Language-Translation
+It is a react app for language translation using an api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
